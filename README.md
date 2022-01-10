@@ -1,6 +1,5 @@
 # Olio-ohjelmointi-ja-WPF-Sovellukset-Kevät-19
-
-Oma Nimi Tähän
+Jani Palo
 
 ## Ohjeet
 
