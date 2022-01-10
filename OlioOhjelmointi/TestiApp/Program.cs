@@ -21,6 +21,8 @@ namespace TestiApp
             koira2.rotu = " Mopsi";
 
             koira2.TulostaData();
+
+            Koira koira3 = new Koira("Urho", 5, "Mopsi");
             
         }
     }
