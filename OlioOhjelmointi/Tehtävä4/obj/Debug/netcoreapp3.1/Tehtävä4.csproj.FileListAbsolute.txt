@@ -1,0 +1,14 @@
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.exe
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.deps.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.runtimeconfig.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.runtimeconfig.dev.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\bin\Debug\netcoreapp3.1\Tehtävä4.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.csproj.AssemblyReference.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.AssemblyInfoInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.AssemblyInfo.cs
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.csproj.CoreCompileInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Tehtävä4\obj\Debug\netcoreapp3.1\Tehtävä4.genruntimeconfig.cache
