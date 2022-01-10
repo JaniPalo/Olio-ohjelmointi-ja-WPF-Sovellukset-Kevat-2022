@@ -1,0 +1,14 @@
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\bin\Debug\netcoreapp3.1\HarjoitusAjoneuvo.exe
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\bin\Debug\netcoreapp3.1\HarjoitusAjoneuvo.deps.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\bin\Debug\netcoreapp3.1\HarjoitusAjoneuvo.runtimeconfig.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\bin\Debug\netcoreapp3.1\HarjoitusAjoneuvo.runtimeconfig.dev.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\bin\Debug\netcoreapp3.1\HarjoitusAjoneuvo.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\bin\Debug\netcoreapp3.1\HarjoitusAjoneuvo.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\obj\Debug\netcoreapp3.1\HarjoitusAjoneuvo.csproj.AssemblyReference.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\obj\Debug\netcoreapp3.1\HarjoitusAjoneuvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\obj\Debug\netcoreapp3.1\HarjoitusAjoneuvo.AssemblyInfoInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\obj\Debug\netcoreapp3.1\HarjoitusAjoneuvo.AssemblyInfo.cs
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\obj\Debug\netcoreapp3.1\HarjoitusAjoneuvo.csproj.CoreCompileInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\obj\Debug\netcoreapp3.1\HarjoitusAjoneuvo.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\obj\Debug\netcoreapp3.1\HarjoitusAjoneuvo.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\HarjoitusAjoneuvo\obj\Debug\netcoreapp3.1\HarjoitusAjoneuvo.genruntimeconfig.cache
