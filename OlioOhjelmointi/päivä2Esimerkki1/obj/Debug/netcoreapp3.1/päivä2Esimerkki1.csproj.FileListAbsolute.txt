@@ -1,0 +1,13 @@
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\bin\Debug\netcoreapp3.1\päivä2Esimerkki1.exe
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\bin\Debug\netcoreapp3.1\päivä2Esimerkki1.deps.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\bin\Debug\netcoreapp3.1\päivä2Esimerkki1.runtimeconfig.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\bin\Debug\netcoreapp3.1\päivä2Esimerkki1.runtimeconfig.dev.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\bin\Debug\netcoreapp3.1\päivä2Esimerkki1.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\bin\Debug\netcoreapp3.1\päivä2Esimerkki1.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\obj\Debug\netcoreapp3.1\päivä2Esimerkki1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\obj\Debug\netcoreapp3.1\päivä2Esimerkki1.AssemblyInfoInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\obj\Debug\netcoreapp3.1\päivä2Esimerkki1.AssemblyInfo.cs
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\obj\Debug\netcoreapp3.1\päivä2Esimerkki1.csproj.CoreCompileInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\obj\Debug\netcoreapp3.1\päivä2Esimerkki1.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\obj\Debug\netcoreapp3.1\päivä2Esimerkki1.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\päivä2Esimerkki1\obj\Debug\netcoreapp3.1\päivä2Esimerkki1.genruntimeconfig.cache

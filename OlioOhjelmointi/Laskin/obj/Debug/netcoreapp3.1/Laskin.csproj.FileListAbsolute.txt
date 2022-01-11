@@ -1,0 +1,14 @@
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.exe
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.deps.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.runtimeconfig.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.runtimeconfig.dev.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\bin\Debug\netcoreapp3.1\Laskin.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.csproj.AssemblyReference.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.AssemblyInfoInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.AssemblyInfo.cs
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.csproj.CoreCompileInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Laskin\obj\Debug\netcoreapp3.1\Laskin.genruntimeconfig.cache
