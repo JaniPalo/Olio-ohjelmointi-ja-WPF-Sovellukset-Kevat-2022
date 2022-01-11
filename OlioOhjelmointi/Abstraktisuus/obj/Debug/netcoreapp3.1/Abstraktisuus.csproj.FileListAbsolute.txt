@@ -1,0 +1,13 @@
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.exe
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.deps.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.runtimeconfig.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.runtimeconfig.dev.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\bin\Debug\netcoreapp3.1\Abstraktisuus.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.AssemblyInfoInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.AssemblyInfo.cs
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.csproj.CoreCompileInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Abstraktisuus\obj\Debug\netcoreapp3.1\Abstraktisuus.genruntimeconfig.cache
