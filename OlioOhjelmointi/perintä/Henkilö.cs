@@ -10,19 +10,25 @@ namespace Perintä
         public int Ikä;
         public int Henkilötunnus;
 
+        private static int Instanssit = 0;
         public Henkilö(string nimi, int ikä, int henkilötunnus)
         {
             Nimi = nimi;
             Ikä = ikä;
             Henkilötunnus = henkilötunnus;
+
+            Instanssit++;
         }
 
-        // virtuaalinen metodi jota voidaan ylilukea (override) aliluokissa
+       
         public virtual void TulostaTiedot()
         {
             Console.WriteLine("Henkilö: " + Nimi + ". Ikä: " + Ikä + ". Henkilötunnus: " + Henkilötunnus);
         }
-
+        public static void KuinkaMontaHenkilöä()
+        {
+            Console.WriteLine("Henkilöitä olemassa on: " + Instanssit);
+        }
         public void Syö()
         {
             Console.WriteLine(Nimi + " syö ruokaa...");
