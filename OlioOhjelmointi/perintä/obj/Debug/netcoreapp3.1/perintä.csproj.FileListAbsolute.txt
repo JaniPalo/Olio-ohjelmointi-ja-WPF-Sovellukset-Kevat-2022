@@ -1,0 +1,4 @@
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\perintä\obj\Debug\netcoreapp3.1\perintä.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\perintä\obj\Debug\netcoreapp3.1\perintä.AssemblyInfoInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\perintä\obj\Debug\netcoreapp3.1\perintä.AssemblyInfo.cs
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\perintä\obj\Debug\netcoreapp3.1\perintä.csproj.CoreCompileInputs.cache
