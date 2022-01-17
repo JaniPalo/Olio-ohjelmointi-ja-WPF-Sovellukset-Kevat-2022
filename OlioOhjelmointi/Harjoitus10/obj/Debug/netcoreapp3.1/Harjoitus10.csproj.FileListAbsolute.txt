@@ -1,0 +1,13 @@
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.exe
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.deps.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.runtimeconfig.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.runtimeconfig.dev.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\bin\Debug\netcoreapp3.1\Harjoitus10.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.AssemblyInfoInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.AssemblyInfo.cs
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.csproj.CoreCompileInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Harjoitus10\obj\Debug\netcoreapp3.1\Harjoitus10.genruntimeconfig.cache
