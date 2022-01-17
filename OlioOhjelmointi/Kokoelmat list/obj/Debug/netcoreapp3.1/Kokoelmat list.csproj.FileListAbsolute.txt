@@ -1,0 +1,13 @@
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\bin\Debug\netcoreapp3.1\Kokoelmat list.exe
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\bin\Debug\netcoreapp3.1\Kokoelmat list.deps.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\bin\Debug\netcoreapp3.1\Kokoelmat list.runtimeconfig.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\bin\Debug\netcoreapp3.1\Kokoelmat list.runtimeconfig.dev.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\bin\Debug\netcoreapp3.1\Kokoelmat list.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\bin\Debug\netcoreapp3.1\Kokoelmat list.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\obj\Debug\netcoreapp3.1\Kokoelmat list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\obj\Debug\netcoreapp3.1\Kokoelmat list.AssemblyInfoInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\obj\Debug\netcoreapp3.1\Kokoelmat list.AssemblyInfo.cs
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\obj\Debug\netcoreapp3.1\Kokoelmat list.csproj.CoreCompileInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\obj\Debug\netcoreapp3.1\Kokoelmat list.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\obj\Debug\netcoreapp3.1\Kokoelmat list.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\Kokoelmat list\obj\Debug\netcoreapp3.1\Kokoelmat list.genruntimeconfig.cache
