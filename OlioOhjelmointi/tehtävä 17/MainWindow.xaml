@@ -1,0 +1,31 @@
+﻿<Window x:Class="tehtävä_17.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tehtävä_17"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn_Keittiö" Content="On/Off" HorizontalAlignment="Left" Margin="141,119,0,0" VerticalAlignment="Top" Width="93" Height="62" Click="btn_Keittiö_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="141,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="39" Width="74"><Run Text="Keittiön valot"/><LineBreak/><Run/></TextBlock>
+        <Button x:Name="btn_Olohuone" Content="On/Off" HorizontalAlignment="Left" Margin="141,217,0,0" VerticalAlignment="Top" Width="93" Height="62" Click="btn_Olohuone_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="148,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="35" Width="149" RenderTransformOrigin="0.5,0.5">
+            <TextBlock.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-16.314"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-5.707"/>
+                </TransformGroup>
+            </TextBlock.RenderTransform><Run Text="Olohuoneen valot"/><LineBreak/><Run/></TextBlock>
+        <TextBlock x:Name="tb_keittiötila" HorizontalAlignment="Left" Margin="253,142,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" RenderTransformOrigin="-0.016,1.475"/>
+        <TextBlock x:Name="tb_olohuoneentila" HorizontalAlignment="Left" Margin="253,235,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Button x:Name="btn_Ovi" Content="" HorizontalAlignment="Left" Margin="428,100,0,0" VerticalAlignment="Top" Width="92" Height="148" Click="btn_Ovi_Click"/>
+        <TextBlock HorizontalAlignment="Left" Margin="454,80,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="39" Width="74" Text="Ovi"/>
+        <TextBox x:Name="txt_Termostaatti" HorizontalAlignment="Left" Height="23" Margin="141,302,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" RenderTransformOrigin="-0.367,-1.487" TextChanged="txt_Termostaatti_TextChanged"/>
+        <TextBlock HorizontalAlignment="Left" Margin="141,284,0,0" TextWrapping="Wrap" Text="Termostaatti" VerticalAlignment="Top"/>
+        <TextBlock x:Name="tb_Lämpotila" HorizontalAlignment="Left" Margin="141,338,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Text="Sisälämpötila"/>
+
+    </Grid>
+</Window>
