@@ -1,11 +1,29 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {}
+    ".NETCoreApp,Version=v3.1": {
+      "Tehtävä 18/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Tehtävä 18.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Tehtävä 18.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Tehtävä 18/1.0.0": {
+      "type": "project",
+      "path": "../Tehtävä 18/Tehtävä 18.csproj",
+      "msbuildProject": "../Tehtävä 18/Tehtävä 18.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": []
+    ".NETCoreApp,Version=v3.1": [
+      "Tehtävä 18 >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\jani.palo\\.nuget\\packages\\": {}
@@ -33,7 +51,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\jani.palo\\source\\repos\\JaniPalo\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\OlioOhjelmointi\\Tehtävä 18\\Tehtävä 18.csproj": {
+              "projectPath": "C:\\Users\\jani.palo\\source\\repos\\JaniPalo\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\OlioOhjelmointi\\Tehtävä 18\\Tehtävä 18.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

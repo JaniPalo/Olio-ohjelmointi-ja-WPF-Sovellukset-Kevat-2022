@@ -61,10 +61,9 @@ namespace tehtävä_17
             }
             else
             {
-                if ( txt_Termostaatti.Text == "")
-                {
+                if (txt_Termostaatti.Text == "")
                     return;
-                }
+                
                 lämpötila = int.Parse(txt_Termostaatti.Text);
                 tb_Lämpotila.Text = "Talon sisälämpötila on " + lämpötila;
             }

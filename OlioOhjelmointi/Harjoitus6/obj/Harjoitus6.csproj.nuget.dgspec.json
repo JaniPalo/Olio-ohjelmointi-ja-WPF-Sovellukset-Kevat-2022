@@ -27,7 +27,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\jani.palo\\source\\repos\\JaniPalo\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\OlioOhjelmointi\\Tehtävä 18\\Tehtävä 18.csproj": {
+                "projectPath": "C:\\Users\\jani.palo\\source\\repos\\JaniPalo\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\OlioOhjelmointi\\Tehtävä 18\\Tehtävä 18.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -56,6 +60,21 @@
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
         }
+      }
+    },
+    "C:\\Users\\jani.palo\\source\\repos\\JaniPalo\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\OlioOhjelmointi\\Tehtävä 18\\Tehtävä 18.csproj": {
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jani.palo\\source\\repos\\JaniPalo\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\OlioOhjelmointi\\Tehtävä 18\\Tehtävä 18.csproj",
+        "projectName": "Tehtävä 18",
+        "projectPath": "C:\\Users\\jani.palo\\source\\repos\\JaniPalo\\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\\OlioOhjelmointi\\Tehtävä 18\\Tehtävä 18.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
       }
     }
   }
