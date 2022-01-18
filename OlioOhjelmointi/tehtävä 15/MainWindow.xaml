@@ -1,0 +1,16 @@
+﻿<Window x:Class="tehtävä_15.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tehtävä_15"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="btn_Auto" Content="Lisää auto" HorizontalAlignment="Left" Margin="157,125,0,0" VerticalAlignment="Top" Width="136" Height="52" Click="btn_Auto_Click"/>
+        <Button x:Name="btn_Kuorma_auto" Content="Lisää kuorma-auto" HorizontalAlignment="Left" Margin="500,125,0,0" VerticalAlignment="Top" Width="147" Height="52" Click="btn_Kuorma_auto_Click"/>
+        <TextBlock x:Name="TB_Auto" HorizontalAlignment="Left" Margin="216,194,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="TB_Kuorma_auto" HorizontalAlignment="Left" Margin="571,194,0,0" TextWrapping="Wrap" Text="0" VerticalAlignment="Top" Width="41"/>
+
+    </Grid>
+</Window>

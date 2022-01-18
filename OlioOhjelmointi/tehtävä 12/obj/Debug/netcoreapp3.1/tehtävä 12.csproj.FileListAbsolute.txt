@@ -1,0 +1,14 @@
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\bin\Debug\netcoreapp3.1\tehtävä 12.exe
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\bin\Debug\netcoreapp3.1\tehtävä 12.deps.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\bin\Debug\netcoreapp3.1\tehtävä 12.runtimeconfig.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\bin\Debug\netcoreapp3.1\tehtävä 12.runtimeconfig.dev.json
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\bin\Debug\netcoreapp3.1\tehtävä 12.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\bin\Debug\netcoreapp3.1\tehtävä 12.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\obj\Debug\netcoreapp3.1\tehtävä 12.csproj.AssemblyReference.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\obj\Debug\netcoreapp3.1\tehtävä 12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\obj\Debug\netcoreapp3.1\tehtävä 12.AssemblyInfoInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\obj\Debug\netcoreapp3.1\tehtävä 12.AssemblyInfo.cs
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\obj\Debug\netcoreapp3.1\tehtävä 12.csproj.CoreCompileInputs.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\obj\Debug\netcoreapp3.1\tehtävä 12.dll
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\obj\Debug\netcoreapp3.1\tehtävä 12.pdb
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä 12\obj\Debug\netcoreapp3.1\tehtävä 12.genruntimeconfig.cache
