@@ -1,0 +1,17 @@
+﻿<Window x:Class="Harjoitus16.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Harjoitus16"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid RenderTransformOrigin="0.384,0.511">
+        <Button x:Name="btn_KmToMiles" Content="Muunna Maileiksi" HorizontalAlignment="Left" Margin="172,125,0,0" VerticalAlignment="Top" Width="134" Height="50" Click="btn_KmToMiles_Click"/>
+        <Button x:Name="btn_MilesToKM" Content="Muunna Kilometreiksi&#xD;&#xA;" HorizontalAlignment="Left" Margin="483,125,0,0" VerticalAlignment="Top" Width="143" RenderTransformOrigin="0.339,0.094" Height="52" Click="btn_MilesToKM_Click"/>
+        <TextBlock x:Name="tb_lopputulos" HorizontalAlignment="Left" Margin="212,201,0,0" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="0.222,0.613"/>
+        <TextBlock x:Name="tb_LoppuTulos" HorizontalAlignment="Left" Margin="537,201,0,0" TextWrapping="Wrap" VerticalAlignment="Top"/>
+        <TextBox x:Name="txt_Input" HorizontalAlignment="Left" Height="27" Margin="291,75,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="194" RenderTransformOrigin="0.318,0.496"/>
+
+    </Grid>
+</Window>
