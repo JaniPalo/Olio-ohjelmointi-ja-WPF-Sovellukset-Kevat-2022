@@ -4,14 +4,14 @@ using System.Text;
 
 namespace Harjoitus7
 {
-    class Hissi
+    class Hissi1
     {
         private int MinKerros;
         private int MaxKerros;
 
         private int NykyinenKerros;
 
-        public Hissi(int minKerros, int maxKerros)
+        public Hissi1(int minKerros, int maxKerros)
         {
             MinKerros = minKerros;
             MaxKerros = maxKerros;

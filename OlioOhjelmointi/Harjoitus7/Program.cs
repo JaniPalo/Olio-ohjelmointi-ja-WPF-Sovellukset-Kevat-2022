@@ -6,7 +6,7 @@ namespace Harjoitus7
     {
         static void Main(string[] args)
         {
-            Hissi hissi = new Hissi(1, 6);
+            Hissi1 hissi = new Hissi1(1, 6);
             string syöte;
 
             while (true)
