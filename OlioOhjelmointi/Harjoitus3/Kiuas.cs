@@ -6,14 +6,14 @@ namespace Harjoitus3
 {
     class Kiuas
     {
-        private string Nimi;
+        private string harvi;
         private int Lämpotila;
         private int Kosteus;
         public bool Tila = false;
 
         public Kiuas(string _nimi, int _lämpötila, int _kosteus)
         {
-            Nimi = _nimi;
+            harvi = _nimi;
             Lämpotila = _lämpötila;
             Kosteus = _kosteus;
 
@@ -22,7 +22,7 @@ namespace Harjoitus3
         {
             if (Tila)
             {
-                Console.WriteLine("Kiuas" + Nimi + " on päällä");
+                Console.WriteLine(  harvi + " on päällä");
                 Console.WriteLine("Lämpötila = " + Lämpotila);
                 Console.WriteLine("Kosteus = " + Kosteus);
             }

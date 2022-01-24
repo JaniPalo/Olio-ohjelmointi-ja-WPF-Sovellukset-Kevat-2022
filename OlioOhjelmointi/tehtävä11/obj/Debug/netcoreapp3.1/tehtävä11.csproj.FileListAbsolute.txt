@@ -11,3 +11,4 @@ C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kev
 C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä11\obj\Debug\netcoreapp3.1\tehtävä11.dll
 C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä11\obj\Debug\netcoreapp3.1\tehtävä11.pdb
 C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä11\obj\Debug\netcoreapp3.1\tehtävä11.genruntimeconfig.cache
+C:\Users\jani.palo\source\repos\JaniPalo\Olio-ohjelmointi-ja-WPF-Sovellukset-Kevat-2022\OlioOhjelmointi\tehtävä11\obj\Debug\netcoreapp3.1\tehtävä11.csproj.AssemblyReference.cache

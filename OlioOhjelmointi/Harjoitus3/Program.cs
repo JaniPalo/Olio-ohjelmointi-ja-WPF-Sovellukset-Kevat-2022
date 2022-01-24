@@ -6,7 +6,7 @@ namespace Harjoitus3
     {
         static void Main(string[] args)
         {
-            Kiuas kiuas1 = new Kiuas( "Kiuas", 90, 20);
+            Kiuas kiuas1 = new Kiuas( "Kiuas", 30, 20);
             kiuas1.NäytäTiedot();
             kiuas1.Tila = true;
             kiuas1.NäytäTiedot();
