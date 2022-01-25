@@ -20,9 +20,37 @@ namespace Harjoitus20
     /// </summary>
     public partial class MainWindow : Window
     {
+        List<Opiskelija> opiskelijat = new List<Opiskelija>();
         public MainWindow()
         {
             InitializeComponent();
+            opiskelijat.Add(new Opiskelija("sdsd", "sas", "sasa", "", ""));
+            dg_Opiskelijat.ItemsSource = opiskelijat;
+        }
+
+        private void btmn_Lisääopiskelija_Click(object sender, RoutedEventArgs e)
+        {
+            string etunimi = Input_Etunimi.Text;
+            string sukunimi = Input_Sukunimi.Text;
+            string puhelinnumero = Input_Puhelinnumero.Text;
+            string sähköposti = Input_Sähköposti.Text;
+            string opiskelijaID = Input_OpiskelijaID.Text;
+
+            opiskelijat.Add(new Opiskelija(etunimi, sukunimi, puhelinnumero, sähköposti, opiskelijaID));
+            dg_Opiskelijat.ItemsSource = opiskelijat;
+
+            Input_Etunimi.Text = "";
+            Input_Sukunimi.Text = "";
+            Input_Puhelinnumero.Text = "";
+            Input_Sähköposti.Text = "";
+            Input_OpiskelijaID.Text = "";
+                
+
+        }
+
+        private void btmn_poistaOpiskelija_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

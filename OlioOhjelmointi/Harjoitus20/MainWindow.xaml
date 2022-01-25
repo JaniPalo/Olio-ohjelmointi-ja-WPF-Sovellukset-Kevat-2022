@@ -7,6 +7,48 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        
+        <Grid.ColumnDefinitions>
+
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid HorizontalAlignment="Left" Height="420" Margin="452,0,-0.4,0" VerticalAlignment="Top" Width="342" Background="#FFFCFCFC">
+            <TextBox x:Name="Input_Etunimi" HorizontalAlignment="Left" Height="23" Margin="32,50,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFD4D4D4"/>
+            <TextBlock HorizontalAlignment="Left" Margin="32,29,0,0" TextWrapping="Wrap" Text="Etunimi" VerticalAlignment="Top"/>
+            <TextBox x:Name="Input_Sukunimi" HorizontalAlignment="Left" Height="23" Margin="196,46,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFD4D4D4"/>
+            <TextBlock HorizontalAlignment="Left" Margin="196,25,0,0" TextWrapping="Wrap" Text="Sukunimi" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5">
+                <TextBlock.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="-1.627"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </TextBlock.RenderTransform>
+            </TextBlock>
+            <TextBox x:Name="Input_Puhelinnumero" HorizontalAlignment="Left" Height="23" Margin="32,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFD4D4D4"/>
+            <TextBlock HorizontalAlignment="Left" Margin="32,95,0,0" TextWrapping="Wrap" Text="Puhelinnumero" VerticalAlignment="Top"/>
+            <TextBox x:Name="Input_Sähköposti" HorizontalAlignment="Left" Height="23" Margin="196,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFD4D4D4"/>
+            <TextBlock HorizontalAlignment="Left" Margin="196,95,0,0" TextWrapping="Wrap" Text="Sähköposti" VerticalAlignment="Top"/>
+            <TextBox x:Name="Input_OpiskelijaID" HorizontalAlignment="Left" Height="23" Margin="32,190,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" Background="#FFD4D4D4"/>
+            <TextBlock HorizontalAlignment="Left" Margin="32,169,0,0" TextWrapping="Wrap" Text="OpiskelijaID" VerticalAlignment="Top"/>
+            <Button x:Name="btmn_Lisääopiskelija" Content="Lisää opiskelija" HorizontalAlignment="Left" Margin="32,237,0,0" VerticalAlignment="Top" Width="115" Height="39" Background="#FF07FF37" Click="btmn_Lisääopiskelija_Click"/>
+            <Button x:Name="btmn_poistaOpiskelija" Content="Poista opiskelija" HorizontalAlignment="Left" Margin="196,237,0,0" VerticalAlignment="Top" Width="115" Height="39" Background="#FFFF1010" Click="btmn_poistaOpiskelija_Click"/>
+            <Button x:Name="btmn_Tallenna" Content="Tallenna opiskelijat" HorizontalAlignment="Left" Margin="32,340,0,0" VerticalAlignment="Top" Width="115" Height="39" Background="#FFE8E8E8"/>
+            <Button x:Name="btmn_Hae" Content="Hae opiskelijat" HorizontalAlignment="Left" Margin="196,340,0,0" VerticalAlignment="Top" Width="115" Height="39" RenderTransformOrigin="0.511,0.713" Background="#FF11AEFF"/>
+        </Grid>
+
+        <DataGrid x:Name="dg_Opiskelijat" ItemsSource="{Binding}" VerticalAlignment="Top" AutoGenerateColumns="False" CanUserReorderColumns="False" CanUserDeleteRows="False" Margin="1,33,0,0" Height="267" HorizontalAlignment="Left" Width="413" Background="White">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Etunimi" Width="100" Binding="{Binding Etunimi}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Sukunimi" Width="100" Binding="{Binding Sukunimi}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Puhelinnumero" Width="100" Binding="{Binding Puhelinnumero}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Sähköposti" Width="100" Binding="{Binding Sähköposti}" IsReadOnly="True"/>
+                <DataGridTextColumn Header="Opiskelija ID" Width="100" Binding="{Binding OpiskelijaID}" IsReadOnly="True"/>
+                <DataGridCheckBoxColumn Header="Poista" Binding="{Binding IsSelected}" Width="50*"/>
+            </DataGrid.Columns>
+
+        </DataGrid>
+
+
     </Grid>
 </Window>
