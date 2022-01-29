@@ -1,19 +1,19 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace Tehtävä4
 {
     class Albumi
     {
-        public string Artisti;
-        public string Nimi;
-        public string Genre;
-        public string Hinta;
-
+        public string Artisti = "Fleetwood mac";     
+        public string Genre = "Rock";
+        public int  Hinta = 20;
+        public string Nimi = "Rumours";
 
         private List<Kappale> kappaleet = new List<Kappale>();
 
+      
+       
 
         public void Lisääkappale(Kappale kappale)
         {
@@ -24,8 +24,15 @@ namespace Tehtävä4
         {
             foreach  (Kappale kappale in kappaleet)
             {
-                Console.WriteLine(kappale.Nimi + ";" + kappale.Kesto);
+                Console.WriteLine(kappale.Nimi + " : " + kappale.Kesto);
             }
+        }
+        public void TulostaAlbumi()
+        {
+            Console.WriteLine("- Albumi: " + Nimi);
+            Console.WriteLine("- Artisti: " + Artisti);
+            Console.WriteLine("- Genre: " + Genre);
+            Console.WriteLine("- Hinta: " + Hinta + " $ ");
         }
     }
 }

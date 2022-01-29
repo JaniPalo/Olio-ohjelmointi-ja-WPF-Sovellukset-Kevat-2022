@@ -1,16 +1,20 @@
 ﻿using System;
 
-namespace Harjoitus3
+namespace Harjoitus_3__KT_
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Kiuas kiuas1 = new Kiuas( "Kiuas", 30, 20);
-            kiuas1.NäytäTiedot();
-            kiuas1.Tila = true;
-            kiuas1.NäytäTiedot();
-            
+            Kiuas harvia = new Kiuas("Harvia", 50, 20); 
+
+            harvia.NäytäTiedot(); // Tulostetaan kiukaan tiedot
+            harvia.Tila = true; // laitetaan kiuas päälle
+            harvia.NäytäTiedot(); 
+            harvia.SäädäLämpötila(30); // Muutetaan  lämpötilaa
+            harvia.SäädäKosteutta(10); // Muutetaan kosteutta
+            harvia.NäytäTiedot(); 
+            harvia.Tila = false; // laitetaan kiuas pois päältä
         }
     }
 }

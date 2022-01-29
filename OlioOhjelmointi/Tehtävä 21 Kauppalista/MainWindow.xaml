@@ -1,0 +1,15 @@
+﻿<Window x:Class="Tehtävä_21_Kauppalista.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Tehtävä_21_Kauppalista"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <CheckBox x:Name="cb_Kana" Content="Kana&#xD;&#xA;" HorizontalAlignment="Left" Margin="87,70,0,0" VerticalAlignment="Top" Height="26" Width="92" Checked="cb_Kana_Checked"/>
+        <Button x:Name="btn_Lisää" Content="Lisää ostoskassiin" HorizontalAlignment="Left" Margin="296,81,0,0" VerticalAlignment="Top" Width="101" Click="btn_Lisää_Click"/>
+        <TextBlock x:Name="tb_text" HorizontalAlignment="Left" Margin="550,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="96" Width="143"/>
+
+    </Grid>
+</Window>
