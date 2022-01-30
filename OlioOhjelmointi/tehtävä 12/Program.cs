@@ -25,7 +25,7 @@ namespace tehtävä_12
             Shuffle();
             
         }
-        private static Random rnd = new Random();
+        public static Random rnd = new Random();
         public static void Shuffle()
         {
             rnd.Next(1, 100);

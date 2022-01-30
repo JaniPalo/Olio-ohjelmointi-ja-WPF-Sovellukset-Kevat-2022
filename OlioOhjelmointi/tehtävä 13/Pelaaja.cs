@@ -10,5 +10,6 @@ namespace tehtävä_13
         public string Sukunimi;
         public int pelaajaNumero;
 
+        
     }
 }
