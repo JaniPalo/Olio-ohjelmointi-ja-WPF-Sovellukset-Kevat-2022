@@ -22,7 +22,7 @@ namespace KT9
         private int äänenVoimakkuus;
 
         
-        public int value1;
+        public float value1;
 
         public float Taajuus { get; private set; }
 
@@ -33,6 +33,7 @@ namespace KT9
             set
 
             {
+               
                 if (value > 107.9)
                 {
                     Console.WriteLine("Taajuutta ei löytynyt ");
@@ -46,15 +47,43 @@ namespace KT9
                 }
                 Console.WriteLine("Taajuus on asetettu: " + value);
                 Taajuus = value;
+                if (value == 88)
+                {
+                    Console.WriteLine("Iskelmä löytyi ");
+                    value = (float)88;
+                }
+
+                if (value == 104)
+                {
+                    Console.WriteLine("Radio nova löytyi ");
+                    value = (float)104;
+                }
+                if (value == 105)
+                {
+                    Console.WriteLine("Suomi pop löytyi ");
+                    value = (float)105;
+                }
+                if (value == 90)
+                {
+                    Console.WriteLine("Suomi rock löytyi ");
+                    value= (float)90;
+                }
+                if (value == 103)
+                {
+                    Console.WriteLine("Nostalgia löytyi ");
+                    value = (float)103;
+                }
             }
         }
       
         public int ÄänenVoimakkuus
         {
+           
             get => äänenVoimakkuus;
             set
-
+                
             {
+               
                 if (value > 9)
                 {
                     Console.WriteLine("Äänenvoimakkuus on liian suuri ");

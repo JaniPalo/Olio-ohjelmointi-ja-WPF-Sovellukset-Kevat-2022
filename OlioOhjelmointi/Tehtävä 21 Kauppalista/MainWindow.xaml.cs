@@ -24,26 +24,18 @@ namespace Tehtävä_21_Kauppalista
         {
             InitializeComponent();
 
-            
+
 
         }
+
+       
 
         private void btn_Lisää_Click(object sender, RoutedEventArgs e)
         {
             if ((bool)cb_Kana.IsChecked)
             {
-                btn_Lisää.ToString();  tb_text.Text.ToString();
-            }
-
-
-        }
-
-        private void cb_Kana_Checked(object sender, RoutedEventArgs e)
-        {
-            if ((bool)cb_Kana.IsChecked)
-            {
-                
+                listbox.Items.Add(cb_Kana);
             }
         }
     }
-    }
+}

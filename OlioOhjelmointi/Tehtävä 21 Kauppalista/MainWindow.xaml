@@ -7,9 +7,16 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <CheckBox x:Name="cb_Kana" Content="Kana&#xD;&#xA;" HorizontalAlignment="Left" Margin="87,70,0,0" VerticalAlignment="Top" Height="26" Width="92" Checked="cb_Kana_Checked"/>
         <Button x:Name="btn_Lisää" Content="Lisää ostoskassiin" HorizontalAlignment="Left" Margin="296,81,0,0" VerticalAlignment="Top" Width="101" Click="btn_Lisää_Click"/>
-        <TextBlock x:Name="tb_text" HorizontalAlignment="Left" Margin="550,49,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="96" Width="143"/>
+        <TextBlock x:Name="tb_tuoteList" HorizontalAlignment="Left" Margin="82,45,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="173" Width="148"><Run Text="tuotteet"/><InlineUIContainer>
+                <CheckBox x:Name="cb_Kana" Content="CheckBox" Height="17" Width="117"/>
+            </InlineUIContainer><InlineUIContainer>
+                <CheckBox Content="CheckBox"/>
+            </InlineUIContainer><InlineUIContainer>
+                <CheckBox Content="CheckBox" Height="20" Width="118"/>
+            </InlineUIContainer></TextBlock>
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="82,109,0,0" VerticalAlignment="Top"/>
+        <ListBox x:Name="listbox" HorizontalAlignment="Left" Height="204" VerticalAlignment="Top" Width="186" Margin="494,24,0,0" SelectionChanged="ListBox_SelectionChanged"/>
 
     </Grid>
 </Window>
