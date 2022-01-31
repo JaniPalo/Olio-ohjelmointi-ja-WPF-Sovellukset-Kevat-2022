@@ -10,16 +10,18 @@ namespace Tehtävä4
         public int  Hinta = 20;
         public string Nimi = "Rumours";
 
+        //Tehdään kappale luokasta lista, jota voidaan käyttää albumi luokan kanssa
         private List<Kappale> kappaleet = new List<Kappale>();
 
       
        
-
+        //Tehdään metodi jolla voidaan kutsua kappaleen tiedot
         public void Lisääkappale(Kappale kappale)
         {
             kappaleet.Add(kappale);
         }
- 
+
+        //Tehdään metodi jolla voidaan kutsua tulostaa kappaleet foreach loopin avulla eli otetaan jokainen kappale kappale luokasta 
         public void TulostaKappaleet()
         {
             foreach  (Kappale kappale in kappaleet)

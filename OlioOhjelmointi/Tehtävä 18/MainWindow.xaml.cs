@@ -27,7 +27,9 @@ namespace Tehtävä_18
 
 
         }
-
+        //tehdään jokaiselle napille logiikka
+        //tehdään tulos muuttuja ensimmäisestä ja toisesta syöte kentästä ja annetaan oikea laskumerkki
+        //lopuksi annetaan tieto että tulos boksi = annettu lasku toimitus ja tulostetaan boksiin tieto string muodossa
         private void btn_Kertolasku_Click(object sender, RoutedEventArgs e)
         {
            
@@ -56,6 +58,7 @@ namespace Tehtävä_18
             txt_Lopputulos.Text = tulos.ToString();
         }
 
+        // jos  annettu muuta kuin numeroita 0-9. niin tulee error message
         private void txt_Syöte1_TextChanged(object sender, TextChangedEventArgs e)
         {
             if (System.Text.RegularExpressions.Regex.IsMatch(txt_Syöte1.Text, "[^0-9]"))

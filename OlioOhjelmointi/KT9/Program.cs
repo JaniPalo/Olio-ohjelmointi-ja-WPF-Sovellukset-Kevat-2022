@@ -12,10 +12,11 @@ namespace KT9
             float Taajuus;
             int Äänenvoimakkuus;
 
-
+            //tehdään uusi taajuus ja äänenvoimakkuus oliot.
             Radio annettutaajuus = new Radio();
             Radio äänenvoimakkuus = new Radio();
             Console.WriteLine("Voit poistua kirjoittamalla 'poistu' ");
+            //tehdään while looppi jonka sisälle käyttäjä voi antaa omat syötteensä
             while (true)
             {
                 Console.WriteLine("Vaihda äänenvoimakkuutta (0-9)");
@@ -28,11 +29,12 @@ namespace KT9
                 Console.WriteLine("- Nostalgia : 103");
                 Console.WriteLine("Anna taajuus 88.0 ja 107.9 väliltä, Käytä , pilkkua");
                 string annettuTaajuus = Console.ReadLine();
+                //jos käyttäjä on kirjoittanut "poistu" konsoli loppuu breaking avulla
                 if (annettuTaajuus.Equals("poistu"))
                 {
                     break;
                 }
-
+                //jos loppu on true syötetään annettu voimakkuus
                 bool loppu = int.TryParse(annettuVoimakkuus, out Äänenvoimakkuus);
                 if (loppu)
                 {
@@ -47,7 +49,7 @@ namespace KT9
                 }
 
                 bool tulos = float.TryParse(annettuTaajuus, out Taajuus);
-
+                //jos true syötetään annettu taajuus
                 if (tulos)
                 {
                     annettutaajuus.AnnettuTaajuus = (float)Taajuus;
@@ -58,6 +60,7 @@ namespace KT9
                     Console.WriteLine("Annettu arvo virheellinen, Voit sammuttaa kirjoittamalla poistu");
                 }
             }
+            //kun käyttäjä kirjoittaa poistu konsoliin tulee viesti  "radio sammutettu"
             Console.WriteLine("Radio sammutettu");
         }
         

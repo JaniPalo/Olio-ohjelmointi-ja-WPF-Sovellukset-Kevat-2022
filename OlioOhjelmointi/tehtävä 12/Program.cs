@@ -1,39 +1,32 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
+using System.Security.Cryptography;
+
 namespace tehtävä_12
 {
-    public class Program
+    public static class Program
     {
 
         static void Main(string[] args)
         {
-            List<string> pakka = new List<string>();
-
-            for (int i = 0; i < 13; i++)
+            pakka pakka2 = new pakka();
+            pakka2.Tulosta();
+            pakka pakka1 = new pakka();
+            pakka1.Shuffle();
+            for (int i = 0; i < 52; i++)
             {
+                Console.WriteLine("{0,19}", pakka1.Tulosta());
+                
+                
 
-                pakka.Add("Hertta - " + (i + 1));
-                pakka.Add("Pata - " + (i + 1));
-                pakka.Add("Risti- " + (i + 1));
-                pakka.Add("Ruutu - " + (i + 1));
-            }
-            foreach (string kortti in pakka)
-            {
 
-                Console.WriteLine(kortti);
+                
             }
-            Shuffle();
-            
+          
         }
-        public static Random rnd = new Random();
-        public static void Shuffle()
-        {
-            rnd.Next(1, 100);
-        }
-    }
+
+       
+     }
 }
-
     
-
-
-

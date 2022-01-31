@@ -27,13 +27,14 @@ namespace tehtävä_17
         public MainWindow()
         {
             InitializeComponent();
-
+            //asetetaan kaikki xamli tekstit antamiin float ja bool arvoihin stringi muodossa
             tb_Lämpotila.Text = "Sisä lämpötila on " + lämpötila;
             tb_keittiötila.Text = keittiövalot.ToString();
             tb_olohuoneentila.Text = olohuoneenvalot.ToString();
             btn_Ovi.Content = oviLukossa.ToString();
         }
-
+        
+        //
         private void btn_Keittiö_Click(object sender, RoutedEventArgs e)
         {
             keittiövalot = !keittiövalot;
@@ -54,8 +55,10 @@ namespace tehtävä_17
 
         private void txt_Termostaatti_TextChanged(object sender, TextChangedEventArgs e)
         {
+            //tehdään if statement jossa termostaatti.text kohtaan pystyy laittamaan vaan numeroita 0-9
             if (System.Text.RegularExpressions.Regex.IsMatch(txt_Termostaatti.Text, "[^0-9]"))
             {
+                //kun tehdään väärä arvo luodaan teksti kenttä jossa annetaan huomautus
                 MessageBox.Show("Please enter only numbers.");
                 txt_Termostaatti.Text = "";
             }

@@ -8,7 +8,7 @@ namespace tehtävä_13
     {
         public string Etunimi;
         public string Sukunimi;
-        public int pelaajaNumero;
+        public int PelaajaNumero;
 
         
     }

@@ -29,6 +29,8 @@ namespace KT8
             Palkka = palkka;
             Työpaikka = työpaikka;
         }
+
+        //overridataan eli tallennetaan Pomo luokalle  omat sisällöt. jotta voidaan kutsua uudelle pomo hahmolle pomo.asiat();
         public override void asiat()
         {
             Console.WriteLine("Pomo ajaa: " + Auto + " merkkisellä autolla");

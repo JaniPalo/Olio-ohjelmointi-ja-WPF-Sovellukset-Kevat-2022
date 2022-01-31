@@ -7,8 +7,8 @@ namespace tehtävä_13
     {
         static void Main(string[] args)
         {
-            Pelaaja pelaaja = new Pelaaja();
-            p);
+            
+            
             
         }
 

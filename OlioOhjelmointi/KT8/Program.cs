@@ -6,9 +6,11 @@ namespace KT8
     {
         static void Main(string[] args)
         {
+            //luodaan henkilö luokkaan uusi työntekijä
             Henkilö työntekijäHenkilö = new Työntekijä("Jussi", 1500, "Careeria");
             työntekijäHenkilö.henkilöTiedot();
 
+            
             Henkilö työntekijä = new Työntekijä(43);
             
             työntekijä.asiat();
@@ -17,6 +19,7 @@ namespace KT8
             Henkilö työntekijä2 = new Työntekijä(32);
             työntekijä2.asiat();
 
+            //luodaan henkilö luokkaan uusi pomo
             Henkilö pomoHenkilö = new Pomo("Simo", 2000, "Jokelan vankila");
             pomoHenkilö.henkilöTiedot();
 

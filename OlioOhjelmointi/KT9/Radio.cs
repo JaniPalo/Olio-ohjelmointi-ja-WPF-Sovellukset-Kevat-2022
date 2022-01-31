@@ -33,7 +33,7 @@ namespace KT9
             set
 
             {
-               
+               //jos annettutaajuus on ... niin syötetään konsoliin tiedot
                 if (value > 107.9)
                 {
                     Console.WriteLine("Taajuutta ei löytynyt ");
@@ -47,6 +47,7 @@ namespace KT9
                 }
                 Console.WriteLine("Taajuus on asetettu: " + value);
                 Taajuus = value;
+                //kun taajuus osuu oikeaan kanavaan syötetään konsoliin tieto
                 if (value == 88)
                 {
                     Console.WriteLine("Iskelmä löytyi ");
@@ -76,6 +77,8 @@ namespace KT9
             }
         }
       
+        //luodaan uusi public int äänenvoikkuus jota käyttäjä voi muuttaa. jos antama arvo on suurempi tai pienempi laitetaan tieto konsolin
+        //jos arvo ei mene ali eikä yli konsoliin asetetaan käyttäjän antama syöte
         public int ÄänenVoimakkuus
         {
            

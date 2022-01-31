@@ -24,7 +24,7 @@ namespace tehtävä_13
                 Console.WriteLine("Sukunimi: ");
                 newPelaaja.Sukunimi = Console.ReadLine();
                 Console.WriteLine("PelaajaNumero: ");
-                newPelaaja.pelaajaNumero = Convert.ToInt32(Console.ReadLine());
+                newPelaaja.PelaajaNumero = Convert.ToInt32(Console.ReadLine());
                 
 
                
